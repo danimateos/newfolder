@@ -3,5 +3,12 @@
 
 Objective: to learn me some Git!
 
-Ah y tengo que comprar leche
+Ah y tengo que comprar:
+
+- leche
+- huevos
+- sosa caustica
+- bidon plastico
+
+
 
