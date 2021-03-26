@@ -5,7 +5,7 @@ Objective: to learn me some Git!
 
 Ah y tengo que comprar leche
 
-Author: Daniel Mateos
+Author: Gandalf the White
 
 
 # Cosas que he aprendido
