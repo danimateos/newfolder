@@ -1,11 +1,14 @@
 # A first git repo
 
 
-Objective: to learn me some Git!
+Objective: TO DESTROY THE WORLD
 
 Ah y tengo que comprar leche
 
-Author: Gandalf the White
+Authors:
+
+- Gandalf the White
+- Sauron the All Seeing Eye
 
 
 # Cosas que he aprendido
