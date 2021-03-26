@@ -8,3 +8,8 @@ Ah y tengo que comprar leche
 Author: Daniel Mateos
 
 
+
+# Cosas que he aprendido
+
+* git checkout
+
