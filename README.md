@@ -1,7 +1,7 @@
 # A first git repo
 
 
-Objective: to learn me some Git!
+Objective: TO DESTROY THE WORLD
 
 Ah y tengo que comprar leche
 
